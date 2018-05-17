@@ -1,0 +1,9 @@
+Building BigBit
+
+See doc/readme-qt.rst for instructions on building BigBit-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of BigBit.
+
+See doc/build-*.txt for instructions on building BigBitd,
+the intended-for-services, no-graphical-interface, reference
+implementation of BigBit.
